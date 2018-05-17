@@ -2,7 +2,7 @@ package estudoleda;
 
 import java.util.Arrays;
 
-public class CountinSort {
+public class CountingSort {
 	public static void main(String[] args) {
 		
 	int[] v = {7, 5, 2, 10, 3, 1, 8, 9};
